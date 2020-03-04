@@ -14,13 +14,13 @@
 		.content {
 			  
 			h2  {
-				@include abR(3%,10%,1000);
-				text-align	: right;
+				@include abT(35%,0,1000);
+				text-align	: center;
 				width		: $max;
 				
 				img {
 				  display	: block;
-				  margin	: 0 auto;
+				  margin	: -$max/20 auto 0 auto;
 				  width		: $max / 4;
 				  min-width : 200px;
 				  height	: auto;

@@ -13,16 +13,16 @@
 /* line 16, ../sass/main.scss */
 .bb-custom-wrapper .bb-bookblock .content h2 {
   position: absolute;
-  top: 3%;
-  right: 10%;
+  top: 35%;
+  left: 0;
   z-index: 1000;
-  text-align: right;
+  text-align: center;
   width: 100%;
 }
 /* line 21, ../sass/main.scss */
 .bb-custom-wrapper .bb-bookblock .content h2 img {
   display: block;
-  margin: 0 auto;
+  margin: -5% auto 0 auto;
   width: 25%;
   min-width: 200px;
   height: auto;
